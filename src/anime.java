@@ -1,4 +1,4 @@
-import java.time.LocalDate:
+import java.time.LocalDate;
 
 public class anime {
     public int id;
@@ -7,7 +7,7 @@ public class anime {
     public int classe_indicativa;
     public String genero;
     public String autor;
-    public int qtd_episodio;
-    public int temporada;
+    public int quantidadeEpisodios;
+    public int temporadas;
 
 }
